@@ -3,13 +3,13 @@
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //support-url: https://t.me/hiddify
 //profile-web-page-url: https://hiddify.com
-warp://188.114.96.183:2408?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#Server01
-warp://162.159.195.122:3476?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#Server02
-warp://188.114.98.76:2408?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#Server03
-warp://162.159.195.112:3476?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#Server04
-warp://188.114.96.173:2408?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#Server05
-warp://162.159.192.162:3476?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#Server06
-warp://188.114.98.126:3476?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#Server07
-warp://188.114.96.202:2408?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#Server08
-warp://188.114.99.208:3476?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#Server09
-warp://162.159.192.102:3476?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#Server10
+warp://188.114.96.183:2408?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#server01
+warp://162.159.195.122:3476?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#server02
+warp://188.114.98.76:2408?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#server03
+warp://162.159.195.112:3476?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#server04
+warp://188.114.96.173:2408?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#server05
+warp://162.159.192.162:3476?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#server06
+warp://188.114.98.126:3476?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#server07
+warp://188.114.96.202:2408?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#server08
+warp://188.114.99.208:3476?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#server09
+warp://162.159.192.102:3476?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#server10
